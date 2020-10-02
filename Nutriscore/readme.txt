@@ -1,7 +1,8 @@
 #Documentation
+Utlisation de Java 9
 
 #Compilation
-Se placer dans le répèrtoire du projet :
+Se placer dans le rÃ©pÃ¨rtoire du projet :
 
 C:\Nutriscore>javac -cp src src\fr\cedric\nutri\Main.java -d bin
 
