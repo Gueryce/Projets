@@ -26,7 +26,7 @@ public class Worker implements Runnable {
 		// TODO Auto-generated method stub
 		while(true) {
 			try {
-				Thread.sleep(2000);
+				Thread.sleep(10000);
 				slider.setValue(Integer.valueOf(requestRandom()));
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
